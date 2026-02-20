@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { Phone, Mail, MapPin } from "lucide-react";
-import logo from "@/assets/logo.png";
+import logo from "@/assets/God is able logo .png";
 
 const Footer = () => (
   <footer className="border-t border-border bg-primary text-primary-foreground">
@@ -10,7 +10,7 @@ const Footer = () => (
         <div>
           <div className="mb-4 flex items-center gap-2">
             <img src={logo} alt="Logo" className="h-10 w-10 rounded-full object-cover" />
-            <span className="font-heading text-sm font-bold">GOD IS ABLE</span>
+            <span className="font-heading text-sm font-bold">GOD IS ABLE CONSTRUCTION</span>
           </div>
           <p className="text-sm opacity-80">
             Reliable construction, roofing, interior design & building materials supply in Ibadan & Lagos, Nigeria.
