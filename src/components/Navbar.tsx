@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Menu, X, Sun, Moon } from "lucide-react";
 import { useTheme } from "./ThemeProvider";
-import logo from "@/assets/logo.png";
+import logo from "@/assets/God is able logo .png";
 
 const navLinks = [
   { to: "/", label: "Home" },
