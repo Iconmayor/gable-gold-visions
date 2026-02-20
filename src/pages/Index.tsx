@@ -26,8 +26,8 @@ const Index = () => (
       <div className="container relative">
         <div className="mx-auto max-w-3xl text-center">
           <h1 className="mb-6 font-heading text-3xl font-bold leading-tight md:text-5xl lg:text-6xl">
-            Reliable Construction & Premium Roofing Experts in{" "}
-            <span className="text-accent">Ibadan & Lagos</span>
+            Reliable Construction & Premium Roofing Experts.{" "}
+            <span className="text-accent"></span>
           </h1>
           <p className="mb-8 text-base leading-relaxed opacity-90 md:text-lg">
             GOD IS ABLE BUILDING CONTRACTOR SERVICES LTD delivers quality building construction,

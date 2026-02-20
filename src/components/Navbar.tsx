@@ -26,7 +26,7 @@ const Navbar = () => {
         <Link to="/" className="flex items-center gap-2">
           <img src={logo} alt="GOD IS ABLE Logo" className="h-10 w-10 rounded-full object-cover" />
           <span className="hidden font-heading text-sm font-bold text-foreground sm:inline-block lg:text-base">
-            GOD IS ABLE
+            GOD IS ABLE CONSTRUCTION 
           </span>
         </Link>
 

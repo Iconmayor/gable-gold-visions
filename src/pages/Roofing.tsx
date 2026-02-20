@@ -18,7 +18,7 @@ const Roofing = () => (
     <section className="bg-primary py-16 text-primary-foreground md:py-24">
       <div className="container text-center">
         <h1 className="font-heading text-3xl font-bold md:text-5xl">
-          Professional Roofing Contractors in <span className="text-accent">Ibadan & Lagos</span>
+          Professional Roofing Contractors in <span className="text-accent">Nigeria</span>
         </h1>
         <p className="mt-4 text-base opacity-80">Premium roofing materials built for durability and weather resistance.</p>
       </div>

@@ -17,7 +17,7 @@ const Construction = () => (
     <section className="bg-primary py-16 text-primary-foreground md:py-24">
       <div className="container text-center">
         <h1 className="font-heading text-3xl font-bold md:text-5xl">
-          Building Construction Company in <span className="text-accent">Ibadan & Lagos</span>
+          Building Construction Company  <span className="text-accent"></span>
         </h1>
         <p className="mt-4 text-base opacity-80">Quality craftsmanship and structural integrity in every project.</p>
       </div>
